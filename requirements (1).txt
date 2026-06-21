@@ -1,0 +1,5 @@
+# Core app has no third-party dependencies — tkinter, json, subprocess,
+# etc. are all part of the Python standard library.
+#
+# Optional, recommended:
+sv-ttk>=2.6,<3
